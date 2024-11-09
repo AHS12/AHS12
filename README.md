@@ -28,3 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahs12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="ahs12" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahs12&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ahs12" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahs12&theme=tokyonight&hide_border=true" alt="ahs12" /></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahs12&theme=react-dark" alt="ahs12" /></p>
