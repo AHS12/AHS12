@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahs12&theme=tokyonight&hide_border=true" alt="ahs12" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://ahs12.github.io/](http://ahs12.github.io/)
+- 👨‍💻 All of my projects are available at [http://ahs12.xyz/](http://ahs12.xyz/)
 
 - 💬 Ask me about **react, nestjs, laravel, go, Docker, unreal engine, godot**
 
