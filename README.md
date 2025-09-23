@@ -50,6 +50,8 @@
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a> 
 </p> 
 
+<a href="https://gitroll.io/profile/u8fSfBMCmiTZr4cXa2LWprghqHLC2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u8fSfBMCmiTZr4cXa2LWprghqHLC2?theme=dark" alt="GitRoll Profile Badge"/></a>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahs12&theme=tokyonight&hide_border=true" alt="ahs12" /></p>
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahs12&theme=react-dark" alt="ahs12" /></p>
